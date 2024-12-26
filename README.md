@@ -8,7 +8,7 @@
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Tkinter</b>
-  - [Fix-it Foodie](https://github.com/qistinashafizul/quizzit_physics)
+  - [Fix-it Foodie](https://github.com/qistinashafizul/fix-it-foodies)
 
 <h2>📺 Youtube</h2>
 
