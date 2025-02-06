@@ -4,7 +4,8 @@
 
 - <b>Web Apps</b>
   - [Quizzit physics](https://github.com/qistinashafizul/quizzit_physics)
- 
+  - [Textulator](https://github.com/zainab1005/Textulator.git)
+  
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Tkinter</b>
