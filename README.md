@@ -9,7 +9,7 @@
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Tkinter</b>
-  - [Fix-it Foodie](https://github.com/qistinashafizul/fix-it-foodies)
+  - [Fix-it Foodie](https://github.com/qistinashafizul/fix-it-foodie)
 
 <h2>📺 Youtube</h2>
 
