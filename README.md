@@ -5,25 +5,27 @@
 - <b>Web Apps</b>
   - [Quizzit physics](https://github.com/qistinashafizul/quizzit_physics)
   - [Textulator](https://github.com/zainab1005/Textulator.git)
+  - [MALECS Webstie](https://malecs-manchester.netlify.app)
   
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Tkinter</b>
   - [Fix-it Foodie](https://github.com/qistinashafizul/fix-it-foodie)
+ 
+- <b>GitRPG</b>
+  - [GitArena]
 
-<h2>📺 Youtube</h2>
+<!-- <h2>📺 Youtube</h2>
 
-- [Fix-it Foodie Tutorial](https://github.com/qistinashafizul/fix-it-foodie)
+- [Fix-it Foodie Tutorial](https://github.com/qistinashafizul/fix-it-foodie) -->
 
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/qistinabatrisyia
 [youtube]: https://www.youtube.com/c/qistinashafizul
 [instagram]: https://www.instagram.com/qis.shafizul/
 [linkedin]: https://linkedin.com/in/qistinashafizul
